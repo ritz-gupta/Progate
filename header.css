@@ -87,6 +87,8 @@ nav
   font-weight: bolder;
   font-size: large;
   color: rgb(17, 6, 16);
+    padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .txt {
@@ -94,7 +96,7 @@ nav
   font-style: oblique;
   font-size: medium;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 17px;
   color: #0e717e;
 }
 .btn-wrapper {
