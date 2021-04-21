@@ -11,14 +11,6 @@ footer {
   margin-top: 100px;
 } */
 
-.team {
-  border-bottom: 2px solid #dee7ec;
-  font-size: 28px;
-  padding-bottom: 15px;
-  margin-bottom: 50px;
-  text-align: left;
-}
-
 .team-member {
   text-align: center;
   float: left;
