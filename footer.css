@@ -150,6 +150,11 @@ textarea {
   font-size: 32px;
 }
 
+.social-link{
+  float:left;
+  padding-right: 10px;
+}
+
 .footer-list {
   float: right;
 }
