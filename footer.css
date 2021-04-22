@@ -138,6 +138,31 @@ textarea {
   float: left;
 }
 
+.testimony{
+   float: right;
+   position: absolute;
+   top: 1950px;
+   left: 600px;
+   border-radius: 2px;
+   border-style: dotted;
+   border-width: thin;
+   border-color: pink;
+}
+
+.testimony h1{
+   font-size: 60px;
+   text-align: center;
+}
+
+.testimony p{
+   text-align: center;
+   font-size: 18px;
+}
+
+.testimony-name {
+   color: #ABB4B1;
+}
+
 .footer {
   background-color: #0e717e;
   color: #fff;
