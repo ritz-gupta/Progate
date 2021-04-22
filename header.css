@@ -16,6 +16,16 @@ html {
   opacity:.7;
 }
 
+.tagline
+{
+  padding-top: 30px;
+  position: absolute;
+  padding-right: 30px;
+  font-size: 40px;
+  opacity: 0.8;
+  padding-bottom: 30px;
+}
+
 nav
 {
   background-color: #262626;
@@ -33,6 +43,9 @@ nav
   position: absolute;
   bottom: 250px;
   left: 30px;
+  display: inline-block;
+  text-align: center;
+  padding-top:40px;
 }
 
 .offers
