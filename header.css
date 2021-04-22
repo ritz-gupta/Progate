@@ -27,6 +27,14 @@ nav
   height:50px;
 }
 
+
+.solution{
+  float: left;
+  position: absolute;
+  bottom: 250px;
+  left: 30px;
+}
+
 .offers
 {
   text-align: center;
