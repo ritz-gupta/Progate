@@ -85,6 +85,11 @@ footer {
 
 .section-title {
   text-align: left;
+  margin-top: 20px;
+  padding-top: 20px;
+  position: relative;
+  top: 15px;
+  left: 10px;
 }
 
 input {
